@@ -104,5 +104,10 @@ Develop a robust system combining CNN for feature extraction and fuzzy logic for
 
 ---
 
-## Contributions
-This project combines state-of-the-art algorithms with decision-making adaptability to address real-world challenges in emotion recognition.
+## Contributors
+@akashmeruva9
+@Madalacharitavya
+@deepaktallapudi
+@SrikariMalladi
+@Yashwanth
+
