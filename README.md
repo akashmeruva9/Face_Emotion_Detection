@@ -109,5 +109,5 @@ Develop a robust system combining CNN for feature extraction and fuzzy logic for
 @Madalacharitavya
 @deepaktallapudi
 @SrikariMalladi
-@Yashwanth
+@Yashwanthdhulipala
 
